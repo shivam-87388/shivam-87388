@@ -102,9 +102,14 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/shivam-singh125b27288"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="tel:+918738861537"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:hardwellshivamsingh2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/shivam-singh125b27288"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/shivam-87388"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+<p align="center">
+📞 +91 8738861537
 </p>
 
 ---
