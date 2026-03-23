@@ -103,7 +103,7 @@
 
 <p align="center">
 <a href="https://wa.me/918738861537">
-<img src="https://skillicons.dev/icons?i=whatsapp" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="48" />
 </a>
 
 <a href="mailto:hardwellshivamsingh2002@gmail.com">
