@@ -100,6 +100,14 @@
 ---
 
 ## 📫 Connect With Me
+<p align="center">
+<a href="https://wa.me/918738861537"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>&nbsp;&nbsp;
+<a href="mailto:hardwellshivamsingh2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shivam-singh125b27288"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;
+<a href="https://github.com/shivam-87388"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+<!-- ## 📫 Connect With Me
 
 <p align="center">
 <a href="https://wa.me/918738861537">
@@ -123,6 +131,8 @@
 <b>📞 +91 8738861537</b>
 </p>
 
----
+--- -->
+
+
 
 ⭐ From [Shivam Singh](https://github.com/shivam-87388)
