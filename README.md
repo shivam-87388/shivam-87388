@@ -101,11 +101,9 @@
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 <p align="center">
-<a href="https://wa.me/918738861537" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/918738861537">
+<img src="https://skillicons.dev/icons?i=whatsapp" />
 </a>
 
 <a href="mailto:hardwellshivamsingh2002@gmail.com">
