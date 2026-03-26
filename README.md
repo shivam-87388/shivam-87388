@@ -130,6 +130,14 @@
 
 ⭐ From [Shivam Singh](https://github.com/shivam-87388)
 
+
+
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shivam-87388&show_icons=true&theme=radical&hide_border=false" alt="Shivam's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-87388&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
+
 Learning GitHub Badges!
 Last updated on March 26
 YOLO Badge Hunt!
