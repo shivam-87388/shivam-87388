@@ -1,99 +1,112 @@
-# Shivam Singh
+SEO-Focused Full Stack Developer · MERN Stack · Lucknow, India
 
-**SEO-focused full stack developer · MERN stack · Lucknow, India**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-singh125b27288)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivam-87388)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shivam-87388.github.io/New-portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hardwellshivamsingh2002@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918738861537)
+   
+   
+   
+   
+  
+
+
+
+
+> *I build web applications that rank. As an SEO-native full stack developer, I write code with search visibility built in from day one — not patched in at the end.*
 
 ---
 
-> I build web applications that rank. As an SEO-native full stack developer, I write code with search visibility built in from day one — not patched in at the end.
+## About
+
+1.5+ years of combined SEO and web development experience across 10+ client websites. Specialised in technical audits, Core Web Vitals, and building MERN applications with SEO-first architecture.
 
 ---
 
 ## Impact at a glance
 
-| Metric | Result |
-|---|---|
-| Organic ranking improvement | 35%+ |
-| Manual audit time saved | 70% |
-| Client websites managed | 10+ |
-| Backlinks built per month | 50+ |
+
+   
+   
+   
+  
+
 
 ---
 
 ## Tech stack
 
 **Frontend**
-`HTML5` `CSS3` `JavaScript` `React` `Tailwind CSS`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & database**
-`Node.js` `Express.js` `MongoDB` `REST APIs`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **SEO & analytics**
-`Technical SEO` `Google Analytics` `Google Search Console` `SEMrush` `Core Web Vitals`
+![Technical SEO](https://img.shields.io/badge/Technical%20SEO-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Analytics-F9AB00?style=flat-square&logo=googleanalytics&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat-square)
 
 ---
 
 ## Featured projects
 
-### [SEO broken link & orphan page checker](https://github.com/shivam-87388/Orphan-and-Broken-Page-Checker)
+### [SEO Broken Link & Orphan Page Checker](https://github.com/shivam-87388/Orphan-and-Broken-Page-Checker)
+MERN-based web crawler that auto-detects broken links and orphan pages — cuts manual audit time by **70%**. Built for agencies running large-scale SEO audits.
 
-A MERN-based web crawler that automatically detects broken links and orphan pages across entire domains. Eliminates repetitive manual auditing — cut client audit time by **70%**. Designed for SEO agencies running large-scale site checks.
-
-`MERN stack` · `Web crawler` · `Technical SEO` · `70% time saved`
-
----
-
-### [Personal portfolio](https://shivam-87388.github.io/New-portfolio/)
-
-SEO-first personal portfolio with semantic HTML, structured data markup, and performance-optimised assets. Achieves **90+** on Google PageSpeed Insights across mobile and desktop.
-
-`90+ PageSpeed` · `Schema markup` · `Fully responsive`
+`MERN` · `Web Crawler` · `Technical SEO` · `70% faster`
 
 ---
 
-## Experience
+### [Portfolio Website](https://shivam-87388.github.io/New-portfolio/)
+SEO-first portfolio with semantic HTML, structured data markup, and performance-tuned assets. Scores **90+** on Google PageSpeed Insights.
 
-**2023 – present · SEO executive & full stack developer**
-1.5 years combined experience managing 10+ websites, building internal SEO tooling, and developing MERN applications.
-
-**Key achievement**
-35%+ organic ranking lift across a portfolio of client websites through technical audits, Core Web Vitals improvements, and structured data implementation.
-
-**Goal**
-Become a top-tier SEO + engineering hybrid — building tools that bridge the gap between search performance and web development.
+`90+ PageSpeed` · `Schema markup` · `Responsive`
 
 ---
 
 ## GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shivam-87388&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-87388&layout=compact&theme=tokyonight&hide_border=true)
+
+  
+  
+
+
+
+  
+
+
+---
+
+## 3D contribution graph
+
+
+  
+
+
+
+  
+
 
 ---
 
 ## Get in touch
 
-I'm open to full-time roles, freelance SEO + dev projects, and collaborations. Reach out on any platform below — I typically respond within 24 hours.
+Open to full-time roles, freelance SEO + dev projects, and collabs. Responds within 24h.
 
-| Platform | Handle | Link |
-|---|---|---|
-| LinkedIn | shivam-singh125b27288 | [Connect](https://linkedin.com/in/shivam-singh125b27288) |
-| Email | hardwellshivamsingh2002@gmail.com | [Send a message](mailto:hardwellshivamsingh2002@gmail.com) |
-| WhatsApp | +91 87388 61537 | [Chat instantly](https://wa.me/918738861537) |
-| GitHub | shivam-87388 | [View my work](https://github.com/shivam-87388) |
-| Portfolio | shivam-87388.github.io | [See live site](https://shivam-87388.github.io/New-portfolio/) |
+| Platform | Contact |
+|---|---|
+| LinkedIn | [shivam-singh125b27288](https://linkedin.com/in/shivam-singh125b27288) |
+| Email | [hardwellshivamsingh2002@gmail.com](mailto:hardwellshivamsingh2002@gmail.com) |
+| WhatsApp | [+91 87388 61537](https://wa.me/918738861537) |
+| GitHub | [shivam-87388](https://github.com/shivam-87388) |
+| Portfolio | [shivam-87388.github.io](https://shivam-87388.github.io/New-portfolio/) |
 
-> Open to: full-time roles · freelance SEO + dev · technical audits · collaborations
-> Responds within 24 hours.
-
-*Open to full-time roles, freelance projects, and collaborations.*
-
-
+---
 
 Learning GitHub Badges!
 Last updated on March 26
