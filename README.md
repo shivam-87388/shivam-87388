@@ -1,80 +1,93 @@
-<div align="center">
+# Shivam Singh
 
-# 🚀 Shivam Singh
-**SEO-Focused Full Stack Developer • MERN Stack • Lucknow, India**
+**SEO-Focused Full Stack Developer · MERN Stack · Lucknow, India**
 
-<p align="center">
-<a href="https://linkedin.com/in/shivam-singh125b27288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/shivam-87388"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:hardwellshivamsingh2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/918738861537"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
-</div>
-
----
-
-## 💡 About
 > *I build web applications that rank. As an SEO-native full stack developer, I write code with search visibility built in from day one — not patched in at the end.*
 
-**1.5+ years experience • 10+ client websites • Lucknow, India** **Goal: Top-tier SEO + Engineering hybrid**
+---
+
+## About
+
+1.5+ years of combined SEO and web development experience across 10+ client websites. Specialised in technical audits, Core Web Vitals, and building MERN applications with SEO-first architecture.
 
 ---
 
-## 📊 Impact at a glance
-<p align="center">
-  <img src="https://img.shields.io/badge/35%25%2B-Organic%20Ranking%20Lift-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/70%25-Audit%20Time%20Saved-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/10%2B-Client%20Websites-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/50%2B-Backlinks%2FMonth-orange?style=for-the-badge" />
-</p>
+## Impact at a glance
+
+| Metric | Result |
+|--------|--------|
+| Organic ranking improvement | 35%+ |
+| Manual audit time saved | 70% |
+| Client websites managed | 10+ |
 
 ---
 
-## 🛠 Tech stack
+## Tech stack
 
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **SEO** | ![GSC](https://img.shields.io/badge/-Search%20Console-4285F4?logo=google&logoColor=white) ![GA4](https://img.shields.io/badge/-Analytics-F9AB00?logo=googleanalytics&logoColor=white) ![SEMrush](https://img.shields.io/badge/-SEMrush-FF642D?logo=semrush&logoColor=white) |
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Backend & database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🌟 Featured projects
-
-### 🛠️ [SEO Broken Link & Orphan Page Checker](https://github.com/shivam-87388/Orphan-and-Broken-Page-Checker)
-> MERN-based web crawler that auto-detects broken links and orphan pages — cuts manual audit time by **70%**.
-`MERN` `Web Crawler` `Technical SEO` `70% faster`
-
-### 💻 [Portfolio Website](https://shivam-87388.github.io/New-portfolio/)
-> SEO-first portfolio with semantic HTML, structured data markup, and performance-tuned assets. Scores **90+** on PageSpeed.
-`90+ PageSpeed` `Schema markup` `Responsive`
-
----
-
-## 📈 GitHub stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam-87388&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-87388&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**SEO & analytics**  
+![Technical SEO](https://img.shields.io/badge/Technical%20SEO-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Analytics-F9AB00?style=flat-square&logo=googleanalytics&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat-square)
 
 ---
 
-## 📬 Get in touch
-**Open to full-time roles, freelance SEO + dev projects, and collabs. Responds within 24h.**
+## Featured projects
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [shivam-singh125b27288](https://linkedin.com/in/shivam-singh125b27288) |
-| **Email** | [hardwellshivamsingh2002@gmail.com](mailto:hardwellshivamsingh2002@gmail.com) |
-| **WhatsApp** | [+91 87388 61537](https://wa.me/918738861537) |
-| **Portfolio** | [Visit Site](https://shivam-87388.github.io/New-portfolio/) |
+### [SEO Broken Link & Orphan Page Checker](https://github.com/shivam-87388/Orphan-and-Broken-Page-Checker)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=shivam-87388&color=blue&style=flat-square&label=PROFILE+VIEWS" />
-</div>
+MERN-based web crawler that auto-detects broken links and orphan pages — cuts manual audit time by **70%**. Built for agencies running large-scale SEO audits.
+
+`MERN` · `Web Crawler` · `Technical SEO` · `70% faster`
+
+---
+
+### [Portfolio Website](https://shivam-87388.github.io/New-portfolio/)
+
+SEO-first portfolio with semantic HTML, structured data markup, and performance-tuned assets. Scores **90+** on Google PageSpeed Insights.
+
+`90+ PageSpeed` · `Schema markup` · `Responsive`
+
+---
+
+## GitHub stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shivam-87388&show_icons=true&theme=tokyonight&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-87388&layout=compact&theme=tokyonight)
+
+---
+
+## 3D contribution graph
+
+![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-87388&theme=tokyonight)
+
+---
+
+## Get in touch
+
+Open to full-time roles, freelance SEO + dev projects, and collabs. Responds within 24h.
+
+| Platform | Contact |
+|----------|--------|
+| LinkedIn | [shivam-singh125b27288](https://linkedin.com/in/shivam-singh125b27288) |
+| Email | [hardwellshivamsingh2002@gmail.com](mailto:hardwellshivamsingh2002@gmail.com) |
+| WhatsApp | [+91 87388 61537](https://wa.me/918738861537) |
+| GitHub | [shivam-87388](https://github.com/shivam-87388) |
+| Portfolio | [shivam-87388.github.io](https://shivam-87388.github.io/New-portfolio/) |
+
+---
 
 Learning GitHub Badges!
 Last updated on March 26
