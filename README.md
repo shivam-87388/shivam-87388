@@ -32,12 +32,12 @@ I am an **SEO-native Full Stack Developer** who builds web applications with **s
 
 ## 📊 Impact
 
-| Metric | Result |
-|--------|--------|
-| 📈 Organic Ranking Growth | 35%+ |
-| ⏱ Audit Time Reduced | 70% |
-| 🌍 Websites Managed | 10+ |
-| 🔗 Backlinks Built | 50+/month |
+| Area | Outcome |
+|------|--------|
+| 📈 Organic Search Growth | Achieved 35%+ increase across multiple client websites |
+| ⏱ SEO Audit Efficiency | Reduced manual audit time by 70% using automation tools |
+| 🌐 Website Management | Successfully handled 10+ client websites |
+| 🔗 Link Building | Built 50+ high-quality backlinks per month |
 
 ---
 
@@ -100,10 +100,25 @@ SEO-first portfolio with:
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/shivam-singh125b27288  
-- 📧 Email: hardwellshivamsingh2002@gmail.com  
-- 📱 WhatsApp: https://wa.me/918738861537  
-- 🌐 Portfolio: https://shivam-87388.github.io/New-portfolio/  
+<p align="left">
+  <a href="https://linkedin.com/in/shivam-singh125b27288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:hardwellshivamsingh2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://wa.me/918738861537" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+  <a href="https://shivam-87388.github.io/New-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+💼 **Open to**: Full-time roles · Freelance SEO & Development · Technical Audits · Collaborations  
+⏱ **Response Time**: Within 24 hours
 
 ---
 
